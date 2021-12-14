@@ -1,5 +1,5 @@
 # SCA-Levelled-Membership-Tasks - Data Science Track
-    This repo contains my deliverables for the She Code Africa (SCA) Levelled Membership Initiative - Data Science Track.
+    This repo contains my submissions for the She Code Africa (SCA) Levelled Membership Initiative - Data Science Track.
     The idea behind this is to have each lady who joins the SCA community build up her skill in whatever field she’s interested in,
     through tasks, projects for different levels created by field experts and technical coordinators/channel leads.
 
@@ -11,7 +11,7 @@
 
 **Thoughts :** .
 
-[L1]: https://github.com/yemisiajao/SCA-Levelled-Membership-Tasks/blob/main/assets/Level 1 completion.png
+[L1]: https:// github.com/yemisiajao/SCA-Levelled-Membership-Tasks/blob/main/assets/Level 1 completion.png
 #### LEVEL 1
 ![ LEVEL 1 ][L1]
 
@@ -23,7 +23,7 @@
 
 **Thoughts :** .
 
-[L2]: https://github.com/yemisiajao/SCA-Levelled-Membership-Tasks/blob/main/assets/Level 2 completion.png
+[L2]: https:// github.com/yemisiajao/SCA-Levelled-Membership-Tasks/blob/main/assets/Level 2 completion.png
 #### LEVEL 2
 ![ LEVEL 2 ][L2]
 
@@ -40,6 +40,6 @@ The dataset is available on kaggle [here](https://www.kaggle.com/andrewmvd/heart
                
 **Thoughts :** Get familiar with the data!
 
-[L3]: https://github.com/yemisiajao/SCA-Levelled-Membership-Tasks/blob/main/assets/Level 3 completion.png
+[L3]: 
 #### LEVEL 3
 ![ LEVEL 3 ][L3]
